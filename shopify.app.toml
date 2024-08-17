@@ -3,7 +3,7 @@
 client_id = "cf64ae6b05d9ac2b04c7f74839b71623"
 name = "scribe-ai"
 handle = "scribe-ai"
-application_url = "https://hamburg-desktop-perfect-philips.trycloudflare.com"
+application_url = "https://blah-rg-affects-mentor.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://hamburg-desktop-perfect-philips.trycloudflare.com/auth/callback",
-  "https://hamburg-desktop-perfect-philips.trycloudflare.com/auth/shopify/callback",
-  "https://hamburg-desktop-perfect-philips.trycloudflare.com/api/auth/callback"
+  "https://blah-rg-affects-mentor.trycloudflare.com/auth/callback",
+  "https://blah-rg-affects-mentor.trycloudflare.com/auth/shopify/callback",
+  "https://blah-rg-affects-mentor.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
